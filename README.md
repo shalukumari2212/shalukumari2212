@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm shalu kumari</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 🔭 I’m currently working on : mini project<br>👯 I’m looking to collaborate on :  Beginner-friendly web development projects.<br>🤝 I’m looking for help with :Improving my coding skills<br>🌱 I’m currently learning: HTML , CSS , JavaScript<br>💬 Ask me about : My learning journey, beginner projects.<br>⚡ Fun fact  : "I love solving problems — especially the ones I accidentally create myself. 😄"
 
 
